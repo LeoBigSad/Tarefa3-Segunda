@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa3.API", "Tarefa3-segunda\Tarefa3.API.csproj", "{F6C63422-9860-40CA-B8CD-482AFEF7287A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa3.Domain", "Tarefa3.Domain\Tarefa3.Domain.csproj", "{560DE88F-84AA-43AA-8485-088D42B3857E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa3.Application", "Tarefa3.Application\Tarefa3.Application.csproj", "{73C2DF06-E13B-4106-8A1B-27FCFCE74F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C63422-9860-40CA-B8CD-482AFEF7287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C63422-9860-40CA-B8CD-482AFEF7287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C63422-9860-40CA-B8CD-482AFEF7287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C63422-9860-40CA-B8CD-482AFEF7287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560DE88F-84AA-43AA-8485-088D42B3857E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560DE88F-84AA-43AA-8485-088D42B3857E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560DE88F-84AA-43AA-8485-088D42B3857E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560DE88F-84AA-43AA-8485-088D42B3857E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C2DF06-E13B-4106-8A1B-27FCFCE74F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C2DF06-E13B-4106-8A1B-27FCFCE74F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C2DF06-E13B-4106-8A1B-27FCFCE74F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C2DF06-E13B-4106-8A1B-27FCFCE74F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
