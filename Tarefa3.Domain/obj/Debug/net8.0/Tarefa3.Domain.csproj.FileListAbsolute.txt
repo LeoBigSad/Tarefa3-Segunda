@@ -1,0 +1,11 @@
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\bin\Debug\net8.0\Tarefa3.Domain.deps.json
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\bin\Debug\net8.0\Tarefa3.Domain.dll
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\bin\Debug\net8.0\Tarefa3.Domain.pdb
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.AssemblyInfoInputs.cache
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.AssemblyInfo.cs
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.dll
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\refint\Tarefa3.Domain.dll
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\Tarefa3.Domain.pdb
+C:\Users\Avest\source\repos\Tarefa3-segunda\Tarefa3.Domain\obj\Debug\net8.0\ref\Tarefa3.Domain.dll
